@@ -70,6 +70,69 @@ p {
     width: 800px;
     margin: 0 auto;
 }
+/*START HERE*/
+nav {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.link {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    margin-right: 3%;
+}
+
+.link a {
+    text-decoration: none;
+    color: black;
+}
+
+.box1 {
+    color:
+}
+
+.box2 {
+    color:
+}
+
+.box3 {
+    color:
+}
+
+.box4 {
+    color:
+}
+
+.box5 {
+    color:
+}
+
+.box6 {
+    color:
+}
+
+.box7 {
+    color:
+}
+
+.box8 {
+    color:
+}
+
+.box9 {
+    color:
+}
+
+.box10 {
+    color:
+}
+
+
+/*Dont change below here!*/
 
 .top-content {
     display: flex;
